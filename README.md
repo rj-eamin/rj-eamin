@@ -2,28 +2,32 @@
 
 # 👋 Hi, I'm **RJ Eamin**
 
-### Vibe Coder · Web Apps · Mobile Apps · AI Agents · Automation · Digital Products
+### Vibe Coder • Web Apps • Mobile Apps • AI Agents • Automation • Digital Products
 
 <p>
   <a href="https://github.com/rj-eamin">
-    <img src="https://komarev.com/ghpvc/?username=rj-eamin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=rj-eamin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/rj-eamin?tab=followers">
-    <img src="https://img.shields.io/github/followers/rj-eamin?label=Followers&style=flat&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/rj-eamin?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/rj-eamin?tab=repositories">
-    <img src="https://img.shields.io/github/stars/rj-eamin?affiliations=OWNER&label=Stars&style=flat&logo=github" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/rj-eamin?affiliations=OWNER&style=flat&logo=github&label=Stars" alt="GitHub Stars" />
   </a>
 </p>
 
 <p>
-  <a href="https://www.rjeamin.com"><strong>🌐 Website</strong></a>
+  <a href="https://www.rjeamin.com">
+    🌐 <strong>Website</strong>
+  </a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/sajjad-h-eamin/"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/sajjad-h-eamin/">
+    💼 <strong>LinkedIn</strong>
+  </a>
   &nbsp;•&nbsp;
-  <a href="https://www.facebook.com/sajjad.eamin/"><strong>Facebook</strong></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:sheamin5000@gmail.com"><strong>Email</strong></a>
+  <a href="mailto:sheamin5000@gmail.com">
+    ✉️ <strong>Email</strong>
+  </a>
 </p>
 
 </div>
@@ -32,14 +36,14 @@
 
 ## 🚀 About Me
 
-I'm a **Vibe Coder** focused on turning ideas into useful digital products.
+I'm a **Vibe Coder** who enjoys turning ideas into useful digital products.
 
 - 🔭 Currently building **[e-Ticketing / Meridian](https://rj-eamin.github.io/meridian/)**
-- 🌱 Currently learning **AI Agent development & automation**
+- 🌱 Currently learning **AI Agent Development & Automation**
 - 👯 Open to collaborating on **[Famora — Family Organizer](https://github.com/rj-eamin/famora)**
-- 🤝 Exploring **[Automation Agent](https://github.com/rj-eamin/soul-music-agent)**
+- 🤝 Exploring **[Soul Music Agent](https://github.com/rj-eamin/soul-music-agent)**
 - 💬 Ask me about **Vibe Coding, Web Apps, AI Agents & Digital Products**
-- 🧩 I enjoy combining **AI + automation + modern web technologies**
+- 🧩 Interested in **AI + Automation + Modern Web Technologies**
 - ⚡ Fun fact: **I build first, learn fast, and iterate.**
 
 ---
@@ -66,103 +70,166 @@ I'm a **Vibe Coder** focused on turning ideas into useful digital products.
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏠 Famora
+
+**Family coordination and organization platform.**
+
+<a href="https://github.com/rj-eamin/famora">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Famora repository" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌤️ Global Weather
+
+**Responsive weather experience for exploring weather information.**
+
+<a href="https://github.com/rj-eamin/global-weather">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Global Weather repository" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎫 Meridian
+
+**Modern e-ticketing web application.**
+
+<a href="https://rj-eamin.github.io/meridian/">
+  <img src="https://img.shields.io/badge/Live%20Demo-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Meridian live demo" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎵 Soul Music Agent
+
+**AI-powered automation experiment.**
+
+<a href="https://github.com/rj-eamin/soul-music-agent">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Soul Music Agent repository" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/rj-eamin/famora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rj-eamin&repo=famora&theme=tokyonight&hide_border=true" alt="Famora repository" />
-  </a>
-  <a href="https://github.com/rj-eamin/global-weather">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rj-eamin&repo=global-weather&theme=tokyonight&hide_border=true" alt="Global Weather repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rj-eamin/meridian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rj-eamin&repo=meridian&theme=tokyonight&hide_border=true" alt="Meridian repository" />
-  </a>
-  <a href="https://github.com/rj-eamin/soul-music-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rj-eamin&repo=soul-music-agent&theme=tokyonight&hide_border=true" alt="Soul Music Agent repository" />
-  </a>
-</p>
-
-> 💡 More projects: **[github.com/rj-eamin?tab=repositories](https://github.com/rj-eamin?tab=repositories)**
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rj-eamin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub statistics" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj-eamin&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Top languages" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rj-eamin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/rj-eamin">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-eamin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rj-eamin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies" />
-</p>
-
----
-
-## 📌 GitHub Snapshot
-
-<p align="center">
-
   <a href="https://github.com/rj-eamin?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-11-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+    <strong>🔎 Explore All Repositories →</strong>
   </a>
+</p>
 
-  <a href="https://github.com/rj-eamin?tab=stars">
-    <img src="https://img.shields.io/badge/Stars%20Received-0-ffd700?style=for-the-badge&logo=github&logoColor=black" alt="Stars received" />
-  </a>
+---
 
-  <a href="https://github.com/rj-eamin?tab=followers">
-    <img src="https://img.shields.io/github/followers/rj-eamin?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  </a>
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<a href="https://github.com/rj-eamin">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=rj-eamin&hide_border=true&theme=default"
+    alt="RJ Eamin GitHub Contribution Streak"
+  />
+
+</a>
 
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 📌 GitHub Overview
 
 <p align="center">
 
-  <a href="https://www.rjeamin.com">🌐 Website</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/rj-eamin?tab=repositories">
+  <img
+    src="https://img.shields.io/github/repos/rj-eamin?style=for-the-badge&logo=github&label=Public%20Repositories"
+    alt="Public repositories"
+  />
+</a>
 
-  <a href="https://www.linkedin.com/in/sajjad-h-eamin/">💼 LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/rj-eamin?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/rj-eamin?style=for-the-badge&logo=github&label=Followers"
+    alt="Followers"
+  />
+</a>
 
-  <a href="https://www.facebook.com/sajjad.eamin/">📘 Facebook</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-
-  <a href="mailto:sheamin5000@gmail.com">✉️ Email</a>
+<a href="https://github.com/rj-eamin">
+  <img
+    src="https://img.shields.io/github/commit-activity/y/rj-eamin?style=for-the-badge&logo=github&label=Commits%20This%20Year"
+    alt="Commits this year"
+  />
+</a>
 
 </p>
 
 <p align="center">
-  <i>Building ideas into products — one commit at a time. 🚀</i>
+
+<a href="https://github.com/rj-eamin?tab=repositories">
+  <img
+    src="https://img.shields.io/github/stars/rj-eamin?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars%20Received"
+    alt="Stars received"
+  />
+</a>
+
+<a href="https://github.com/rj-eamin">
+  <img
+    src="https://img.shields.io/github/last-commit/rj-eamin/famora?style=for-the-badge&logo=github&label=Latest%20Project%20Commit"
+    alt="Latest project commit"
+  />
+</a>
+
 </p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.rjeamin.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+
+<a href="https://www.linkedin.com/in/sajjad-h-eamin/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.facebook.com/sajjad.eamin/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="mailto:sheamin5000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Building ideas into products — one commit at a time. 🚀
+
+⭐ **If you find something useful here, consider giving the repository a star!**
+
+</div>
