@@ -53,7 +53,7 @@ I'm a **Vibe Coder** who enjoys turning ideas into useful digital products.
 ### 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,react,nextjs,nodejs,reactnative,flutter" alt="Development technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,react,nextjs,nodejs,flutter" alt="Development technologies" />
 </p>
 
 ### 🗄️ Database & Backend
@@ -65,7 +65,7 @@ I'm a **Vibe Coder** who enjoys turning ideas into useful digital products.
 ### 🎨 Design & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,framer,tailwind" alt="Design and workflow technologies" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,tailwind" alt="Design and workflow technologies" />
 </p>
 
 ---
