@@ -155,53 +155,6 @@ I'm a **Vibe Coder** who enjoys turning ideas into useful digital products.
 
 ---
 
-# 📌 GitHub Overview
-
-<p align="center">
-
-<a href="https://github.com/rj-eamin?tab=repositories">
-  <img
-    src="https://img.shields.io/github/repos/rj-eamin?style=for-the-badge&logo=github&label=Public%20Repositories"
-    alt="Public repositories"
-  />
-</a>
-
-<a href="https://github.com/rj-eamin?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/rj-eamin?style=for-the-badge&logo=github&label=Followers"
-    alt="Followers"
-  />
-</a>
-
-<a href="https://github.com/rj-eamin">
-  <img
-    src="https://img.shields.io/github/commit-activity/y/rj-eamin?style=for-the-badge&logo=github&label=Commits%20This%20Year"
-    alt="Commits this year"
-  />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/rj-eamin?tab=repositories">
-  <img
-    src="https://img.shields.io/github/stars/rj-eamin?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars%20Received"
-    alt="Stars received"
-  />
-</a>
-
-<a href="https://github.com/rj-eamin">
-  <img
-    src="https://img.shields.io/github/last-commit/rj-eamin/famora?style=for-the-badge&logo=github&label=Latest%20Project%20Commit"
-    alt="Latest project commit"
-  />
-</a>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
