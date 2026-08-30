@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm **RJ Eamin**
+# **RJ Eamin**
 
 ### Vibe Coder • Web Apps • Mobile Apps • AI Agents • Automation • Digital Products
 
